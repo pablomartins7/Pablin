@@ -19,5 +19,4 @@
       <td>8h ~ 20h</td> 
     </tr> 
   </tbody> 
-</table> table 
-{ 
+</table> 
